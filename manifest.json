@@ -3,14 +3,14 @@
   "header": {
     "name": "No End Crystal Particles",
     "description": "Removes end crystal explosion particles",
-    "uuid": "YOUR_UNIQUE_UUID_1", // Generate one: https://www.uuidgenerator.net/
+    "uuid": "07377ac9-bd67-405d-a605-a56dc2f15ec2", // Generate one: https://www.uuidgenerator.net/
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "YOUR_UNIQUE_UUID_2", // Generate another unique UUID
+      "uuid": "6ee2f92d-ed92-4fcd-9586-0d3415f34771", // Generate another unique UUID
       "version": [1, 0, 0]
     }
   ]
